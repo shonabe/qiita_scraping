@@ -1,0 +1,6 @@
+streamlit
+BeautifulSoup4
+pandas
+openai 
+firebase_admin
+
